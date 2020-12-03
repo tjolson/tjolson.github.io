@@ -4,3 +4,4 @@
 
 layout: home
 ---
+I am a graduate student in mathematics at the [University of Oslo](https://www.uio.no/english/). 
