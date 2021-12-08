@@ -4,4 +4,4 @@
 
 layout: home
 ---
-I am a master's student in mathematics at the [University of Oslo](https://www.uio.no/english/). 
+UNDER CONSTRUCTION. I am a master's student in mathematics at the [University of Oslo](https://www.uio.no/english/). 
