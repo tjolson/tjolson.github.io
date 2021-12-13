@@ -4,4 +4,4 @@
 
 layout: home
 ---
-UNDER CONSTRUCTION. I am a master's student in mathematics at the [University of Oslo](https://www.uio.no/english/). 
+Under construction. I am a master's student in mathematics at the [University of Oslo](https://www.uio.no/english/). 
